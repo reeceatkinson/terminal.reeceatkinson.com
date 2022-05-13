@@ -1,0 +1,35 @@
+{
+  "readmeUrl": "https://raw.githubusercontent.com/cveinnt/cveinnt/master/README.md",
+  "title": "Reece Atkinson Terminal",
+  "name": "Reece Atkinson",
+  "ascii": "Reece Atkinson",
+  "social": {
+    "github": "github",
+    "linkedin": "linkedin"
+  },
+  "email": "hello@reeceatkinson.com",
+  "ps1_hostname": "reeceatkinson",
+  "ps1_username": "visitor",
+  "repo": "https://github.com/reeceatkinson/terminal.reeceatkinson.com",
+  "resume_url": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Resume.pdf",
+  "colors": {
+    "light": {
+      "background": "#2d50e9",
+      "foreground": "#ffffff",
+      "yellow": "#0fc",
+      "green": "#0fc",
+      "gray": "#0fc",
+      "blue": "#0fc",
+      "red": "#0fc"
+    },
+    "dark": {
+      "background": "#2E3440",
+      "foreground": "#E5E9F0",
+      "yellow": "#5E81AC",
+      "green": "#A3BE8C",
+      "gray": "#88C0D0",
+      "blue": "#EBCB8B",
+      "red": "#BF616A"
+    }
+  }
+}
